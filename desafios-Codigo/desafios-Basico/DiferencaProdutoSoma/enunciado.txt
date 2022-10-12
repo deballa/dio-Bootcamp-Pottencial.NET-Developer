@@ -1,0 +1,14 @@
+Desafio 1
+Subtraindo o produto e a soma de um número inteiro
+
+Dado um número inteiro (n), retorne a diferença entre o produto de seus dígitos e a soma de seus dígitos.
+
+Entrada: consiste em um número inteiro (n);
+
+Saída: consiste na multiplicação do produto dos dígitos (n), a soma de seus dígitos e a diferenção entre o produto e a soma, como no exemplo a baixo: 
+
+Entrada: 234
+Saída: 15
+
+Entrada: 4421
+Saída: 21
